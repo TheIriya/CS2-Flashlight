@@ -1,6 +1,6 @@
 # CS2 Flashlight
 
-[CounterStrikeSharp](https://github.com/roflmuffin/counterstrikesharp) 动态手电筒插件。玩家存活时可以切换聚光灯，灯光位置和方向会随视角更新；死亡或断开连接时会移除灯光实体。
+[CounterStrikeSharp](https://github.com/roflmuffin/counterstrikesharp) 动态手电筒插件。玩家存活时可以切换手电筒，灯光位置和方向会随视角更新；死亡或断开连接时会移除灯光实体。
 
 ## 使用方式
 
