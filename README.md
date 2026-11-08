@@ -1,6 +1,6 @@
 # CS2 Flashlight
 
-CounterStrikeSharp 动态手电筒插件。玩家存活时可以切换聚光灯，灯光位置和方向会随视角更新；死亡或断开连接时会移除灯光实体。
+[CounterStrikeSharp](https://github.com/roflmuffin/counterstrikesharp) 动态手电筒插件。玩家存活时可以切换聚光灯，灯光位置和方向会随视角更新；死亡或断开连接时会移除灯光实体。
 
 ## 使用方式
 
@@ -54,4 +54,4 @@ dotnet publish -c Release
 game/csgo/addons/counterstrikesharp/plugins/Flashlight/
 ```
 
-然后重启服务器或通过 CounterStrikeSharp 加载插件。
+然后重启服务器或通过 [CounterStrikeSharp](https://github.com/roflmuffin/counterstrikesharp) 加载插件。
